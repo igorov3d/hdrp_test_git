@@ -2,14 +2,14 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
+hdrp_test_git/[Ll]ibrary/
+hdrp_test_git/[Tt]emp/
+hdrp_test_git/[Oo]bj/
+hdrp_test_git/[Bb]uild/
+hdrp_test_git/[Bb]uilds/
+hdrp_test_git/[Ll]ogs/
 /[Mm]emoryCaptures/
-
+hdrp_test_git
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
